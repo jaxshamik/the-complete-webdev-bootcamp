@@ -1,0 +1,19 @@
+body {
+    background-color: #aedadd;
+}
+
+h1 {
+    color: #fcf8f3;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+h3 {
+    color: #db996c;
+}
+
+
+hr {
+    border-style: dotted none none;
+    border-color: #6e7da2;
+    border-width: 8px;
+    size: 2mm;
+    width: 5%;
+}
