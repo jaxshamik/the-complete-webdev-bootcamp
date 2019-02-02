@@ -1,2 +1,4 @@
 # the-complete-webdev-bootcamp
-An Udemy Course 
+An Udemy Course
+The live site can be viewed at:
+https://jaxshamik.github.io/the-complete-webdev-bootcamp/.
